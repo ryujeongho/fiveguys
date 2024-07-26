@@ -332,7 +332,7 @@
 <script src="${pageContext.request.contextPath}/js/jquery-3.7.1.js"></script>
 <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.js"></script>
 <script src="${pageContext.request.contextPath}/js/restaurant/restaurantPicture.js"></script>
-<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=095c604985806a4d1d1e9815c61b4627&libraries=services"></script>
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=29da6412a45af064c85c8b72928517e9&libraries=services"></script>
 <script language="JavaScript">
     var restaurantAddress = "${restaurantVo.address}";
     var address = restaurantAddress;
